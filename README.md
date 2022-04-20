@@ -1,6 +1,4 @@
-### Welcome! I am a student working on a bachelor's degree in computer science with the goal of becoming a software engineer.
-
-### Here is some information about me and this page:
+### Welcome! I am a student working on a bachelor's degree in computer science with the goal of becoming a software engineer. Here is some information about me and this page:
 
 Languages:
 - Python
